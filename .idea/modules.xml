@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Examples.iml" filepath="$PROJECT_DIR$/.idea/modules/Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Examples_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Examples_main.iml" group="Examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Examples_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Examples_test.iml" group="Examples" />
+      <module fileurl="file://$PROJECT_DIR$/docker_wordpress_example/docker_wordpress_example.iml" filepath="$PROJECT_DIR$/docker_wordpress_example/docker_wordpress_example.iml" />
+    </modules>
+  </component>
+</project>

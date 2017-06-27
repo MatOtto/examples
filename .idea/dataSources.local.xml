@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="lportal@172.18.0.2" uuid="9c786b84-2395-46a6-adfa-085c07d3bf4d">
+      <database-info product="PostgreSQL" version="9.6.3" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>lportal</user-name>
+      <introspection-schemas>lportal:public</introspection-schemas>
+    </data-source>
+    <data-source name="medperts_com_liferay@dev-medperts-com.pixelpark.com" uuid="a572f080-486a-4c25-89f6-935e2cd4ecdb">
+      <database-info product="PostgreSQL" version="9.3.4" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>medperts_com</user-name>
+      <introspection-schemas>medperts_com_liferay:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>

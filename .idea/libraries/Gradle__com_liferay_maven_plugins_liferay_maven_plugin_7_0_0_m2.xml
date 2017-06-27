@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.liferay.maven.plugins:liferay-maven-plugin:7.0.0-m2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.liferay.maven.plugins/liferay-maven-plugin/7.0.0-m2/23f9df0ca9349f32d0e23d149aa3894e89d14efb/liferay-maven-plugin-7.0.0-m2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.liferay.maven.plugins/liferay-maven-plugin/7.0.0-m2/446eaadb9f2348b52bf0f653fe920d6daedf094e/liferay-maven-plugin-7.0.0-m2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

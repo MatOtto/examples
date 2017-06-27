@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="docker_wordpress_example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="docker_wordpress_example" target="1.5" />
+      <module name="Examples_main" target="1.8" />
+      <module name="Examples_test" target="1.8" />
+      <module name="file-server_main" target="1.8" />
+      <module name="file-server_test" target="1.8" />
+      <module name="liferay-docker_main" target="1.8" />
+      <module name="liferay-docker_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
